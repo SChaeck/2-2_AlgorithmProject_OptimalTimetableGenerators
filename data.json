@@ -1,0 +1,2996 @@
+[
+    {
+        "course_number": "ASW4014-01",
+        "course_name": "공개SW프로젝트",
+        "professor_name": "정준호",
+        "time": [
+            [
+                "화",
+                2.5,
+                4.0
+            ],
+            [
+                "금",
+                5.5,
+                7.0
+            ]
+        ],
+        "lecture_room": [
+            [
+                -3,
+                1
+            ],
+            [
+                -3,
+                1
+            ]
+        ],
+        "assignment": [
+            0.35,
+            0.29,
+            0.35
+        ],
+        "group_meeting": [
+            0,
+            0,
+            1
+        ],
+        "grade": [
+            0.41,
+            0.47,
+            0.12
+        ]
+    },
+    {
+        "course_number": "ASW4014-02",
+        "course_name": "공개SW프로젝트",
+        "professor_name": "손윤식",
+        "time": [
+            [
+                "월",
+                7.0,
+                8.5
+            ],
+            [
+                "화",
+                5.0,
+                6.5
+            ]
+        ],
+        "lecture_room": [
+            [
+                -3,
+                1
+            ],
+            [
+                -3,
+                1
+            ]
+        ],
+        "assignment": [
+            0.2,
+            0.4,
+            0.4
+        ],
+        "group_meeting": [
+            0.05,
+            0.1,
+            0.85
+        ],
+        "grade": [
+            0.55,
+            0.35,
+            0.1
+        ]
+    },
+    {
+        "course_number": "CSE4031-01",
+        "course_name": "형식언어",
+        "professor_name": "손윤식",
+        "time": [
+            [
+                "월",
+                2.5,
+                3.5
+            ],
+            [
+                "금",
+                2.5,
+                3.5
+            ]
+        ],
+        "lecture_room": [
+            [
+                -3,
+                1
+            ],
+            [
+                -3,
+                1
+            ]
+        ],
+        "assignment": [
+            0.05,
+            0.91,
+            0.04
+        ],
+        "group_meeting": [
+            0.82,
+            0.18,
+            0
+        ],
+        "grade": [
+            0.67,
+            0.33,
+            0
+        ]
+    },
+    {
+        "course_number": "CSE4031-02",
+        "course_name": "형식언어",
+        "professor_name": "손윤식",
+        "time": [
+            [
+                "월",
+                5.5,
+                6.5
+            ],
+            [
+                "금",
+                5.5,
+                6.5
+            ]
+        ],
+        "lecture_room": [
+            [
+                -3,
+                1
+            ],
+            [
+                -3,
+                1
+            ]
+        ],
+        "assignment": [
+            0.05,
+            0.91,
+            0.04
+        ],
+        "group_meeting": [
+            0.82,
+            0.18,
+            0
+        ],
+        "grade": [
+            0.67,
+            0.33,
+            0
+        ]
+    },
+    {
+        "course_number": "CSE4037-01",
+        "course_name": "데이터베이스시스템",
+        "professor_name": "이용규",
+        "time": [
+            [
+                "월",
+                2.0,
+                3.0
+            ],
+            [
+                "수",
+                5.5,
+                6.5
+            ]
+        ],
+        "lecture_room": [
+            [
+                -3,
+                1
+            ],
+            [
+                -3,
+                1
+            ]
+        ],
+        "assignment": [
+            0.01,
+            0.81,
+            0.18
+        ],
+        "group_meeting": [
+            0.93,
+            0.07,
+            0
+        ],
+        "grade": [
+            0.28,
+            0.53,
+            0.19
+        ]
+    },
+    {
+        "course_number": "CSE4037-02",
+        "course_name": "데이터베이스시스템",
+        "professor_name": "이용규",
+        "time": [
+            [
+                "월",
+                5.5,
+                6.0
+            ],
+            [
+                "수",
+                2.0,
+                3.0
+            ]
+        ],
+        "lecture_room": [
+            [
+                -3,
+                1
+            ],
+            [
+                -3,
+                1
+            ]
+        ],
+        "assignment": [
+            0.01,
+            0.81,
+            0.18
+        ],
+        "group_meeting": [
+            0.93,
+            0.07,
+            0
+        ],
+        "grade": [
+            0.28,
+            0.53,
+            0.19
+        ]
+    },
+    {
+        "course_number": "ASW4099-01",
+        "course_name": "운영체제",
+        "professor_name": "김경아",
+        "time": [
+            [
+                "금",
+                1.5,
+                4.0
+            ],
+            [
+                null,
+                0,
+                0
+            ]
+        ],
+        "lecture_room": [
+            [
+                -3,
+                1
+            ],
+            [
+                null,
+                null
+            ]
+        ],
+        "assignment": [
+            0,
+            1,
+            0
+        ],
+        "group_meeting": [
+            1,
+            0,
+            0
+        ],
+        "grade": [
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "course_number": "ASW4099-02",
+        "course_name": "운영체제",
+        "professor_name": "정준호",
+        "time": [
+            [
+                "월",
+                7.5,
+                8.5
+            ],
+            [
+                "수",
+                7.5,
+                8.5
+            ]
+        ],
+        "lecture_room": [
+            [
+                -3,
+                1
+            ],
+            [
+                -3,
+                1
+            ]
+        ],
+        "assignment": [
+            0.05,
+            0.65,
+            0.3
+        ],
+        "group_meeting": [
+            0.85,
+            0.1,
+            0.05
+        ],
+        "grade": [
+            0.15,
+            0.35,
+            0.5
+        ]
+    },
+    {
+        "course_number": "ASW4099-03",
+        "course_name": "운영체제",
+        "professor_name": "이강우",
+        "time": [
+            [
+                "화",
+                7.0,
+                8.0
+            ],
+            [
+                "목",
+                5.5,
+                6.5
+            ]
+        ],
+        "lecture_room": [
+            [
+                -3,
+                1
+            ],
+            [
+                -3,
+                1
+            ]
+        ],
+        "assignment": [
+            0.03,
+            0.78,
+            0.19
+        ],
+        "group_meeting": [
+            0.91,
+            0.06,
+            0.03
+        ],
+        "grade": [
+            0.75,
+            0.22,
+            0.03
+        ]
+    },
+    {
+        "course_number": "PRI4023-01",
+        "course_name": "확률및통계학",
+        "professor_name": "김희경",
+        "time": [
+            [
+                "월",
+                4.0,
+                5.0
+            ],
+            [
+                "수",
+                3.0,
+                4.0
+            ]
+        ],
+        "lecture_room": [
+            [
+                -2,
+                5
+            ],
+            [
+                -2,
+                5
+            ]
+        ],
+        "assignment": [
+            0.05,
+            0.94,
+            0.01
+        ],
+        "group_meeting": [
+            0.92,
+            0.07,
+            0.01
+        ],
+        "grade": [
+            0.49,
+            0.47,
+            0.04
+        ]
+    },
+    {
+        "course_number": "PRI4023-02",
+        "course_name": "확률및통계학",
+        "professor_name": "정선",
+        "time": [
+            [
+                "화",
+                4.0,
+                5.0
+            ],
+            [
+                "목",
+                4.0,
+                5.0
+            ]
+        ],
+        "lecture_room": [
+            [
+                2,
+                2
+            ],
+            [
+                2,
+                2
+            ]
+        ],
+        "assignment": [
+            0,
+            0.9,
+            0.1
+        ],
+        "group_meeting": [
+            0.88,
+            0.09,
+            0.03
+        ],
+        "grade": [
+            0.54,
+            0.37,
+            0.09
+        ]
+    },
+    {
+        "course_number": "PRI4023-03",
+        "course_name": "확률및통계학",
+        "professor_name": "곽화륜",
+        "time": [
+            [
+                "월",
+                10.0,
+                12.5
+            ],
+            [
+                null,
+                0,
+                0
+            ]
+        ],
+        "lecture_room": [
+            [
+                0,
+                1
+            ],
+            [
+                null,
+                null
+            ]
+        ],
+        "assignment": [
+            0.29,
+            0.71,
+            0
+        ],
+        "group_meeting": [
+            0.91,
+            0.09,
+            0
+        ],
+        "grade": [
+            0.74,
+            0.25,
+            0.01
+        ]
+    },
+    {
+        "course_number": "ASW4016-01",
+        "course_name": "컴퓨터보안",
+        "professor_name": "정준호",
+        "time": [
+            [
+                "월",
+                5.0,
+                6.5
+            ],
+            [
+                "수",
+                5.0,
+                6.5
+            ]
+        ],
+        "lecture_room": [
+            [
+                -3,
+                1
+            ],
+            [
+                -3,
+                1
+            ]
+        ],
+        "assignment": [
+            0,
+            1,
+            0
+        ],
+        "group_meeting": [
+            1,
+            0,
+            0
+        ],
+        "grade": [
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "course_number": "ASW4016-02",
+        "course_name": "컴퓨터보안",
+        "professor_name": "김영부",
+        "time": [
+            [
+                "수",
+                2.0,
+                3.5
+            ],
+            [
+                "금",
+                5.5,
+                7.0
+            ]
+        ],
+        "lecture_room": [
+            [
+                -3,
+                1
+            ],
+            [
+                -3,
+                1
+            ]
+        ],
+        "assignment": [
+            0,
+            1,
+            0
+        ],
+        "group_meeting": [
+            1,
+            0,
+            0
+        ],
+        "grade": [
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "course_number": "ASW2009-01",
+        "course_name": "객체지향프로그래밍",
+        "professor_name": "석문기",
+        "time": [
+            [
+                "화",
+                5.0,
+                6.5
+            ],
+            [
+                "목",
+                5.0,
+                6.5
+            ]
+        ],
+        "lecture_room": [
+            [
+                -3,
+                1
+            ],
+            [
+                -3,
+                1
+            ]
+        ],
+        "assignment": [
+            0.0,
+            0.25,
+            0.75
+        ],
+        "group_meeting": [
+            1,
+            0,
+            0
+        ],
+        "grade": [
+            0.44,
+            0.56,
+            0.0
+        ]
+    },
+    {
+        "course_number": "ASW2009-02",
+        "course_name": "객체지향프로그래밍",
+        "professor_name": "박재철",
+        "time": [
+            [
+                "수",
+                9.0,
+                10.5
+            ],
+            [
+                "목",
+                2.0,
+                3.5
+            ]
+        ],
+        "lecture_room": [
+            [
+                -3,
+                1
+            ],
+            [
+                -3,
+                1
+            ]
+        ],
+        "assignment": [
+            0.42,
+            0.58,
+            0.0
+        ],
+        "group_meeting": [
+            1,
+            0,
+            0
+        ],
+        "grade": [
+            0.53,
+            0.37,
+            0.11
+        ]
+    },
+    {
+        "course_number": "ASW2009-03",
+        "course_name": "객체지향프로그래밍",
+        "professor_name": "한인",
+        "time": [
+            [
+                "월",
+                5.0,
+                6.5
+            ],
+            [
+                "목",
+                9.0,
+                10.5
+            ]
+        ],
+        "lecture_room": [
+            [
+                -3,
+                1
+            ],
+            [
+                -3,
+                1
+            ]
+        ],
+        "assignment": [
+            0.0,
+            0.8,
+            0.2
+        ],
+        "group_meeting": [
+            1.0,
+            0.0,
+            0.0
+        ],
+        "grade": [
+            0.6,
+            0.4,
+            0.0
+        ]
+    },
+    {
+        "course_number": "ASW2009-04",
+        "course_name": "객체지향프로그래밍",
+        "professor_name": "한인",
+        "time": [
+            [
+                "월",
+                9.0,
+                10.5
+            ],
+            [
+                "목",
+                2.0,
+                3.5
+            ]
+        ],
+        "lecture_room": [
+            [
+                -3,
+                1
+            ],
+            [
+                -3,
+                1
+            ]
+        ],
+        "assignment": [
+            0.0,
+            0.8,
+            0.2
+        ],
+        "group_meeting": [
+            1.0,
+            0.0,
+            0.0
+        ],
+        "grade": [
+            0.6,
+            0.4,
+            0.0
+        ]
+    },
+    {
+        "course_number": "ASW2009-05",
+        "course_name": "객체지향프로그래밍",
+        "professor_name": "신인수",
+        "time": [
+            [
+                "금",
+                6.0,
+                9.5
+            ]
+        ],
+        "lecture_room": [
+            [
+                -3,
+                1
+            ]
+        ],
+        "assignment": [
+            0.33,
+            0.33,
+            0.34
+        ],
+        "group_meeting": [
+            0.33,
+            0.33,
+            0.34
+        ],
+        "grade": [
+            0.33,
+            0.33,
+            0.34
+        ]
+    },
+    {
+        "course_number": "EGC3057-01",
+        "course_name": "연애학개론",
+        "professor_name": "장재숙",
+        "time": [
+            [
+                "수",
+                4.5,
+                7.0
+            ]
+        ],
+        "lecture_room": [
+            [
+                2,
+                2
+            ]
+        ],
+        "assignment": [
+            0.22,
+            0.76,
+            0.02
+        ],
+        "group_meeting": [
+            0.65,
+            0.24,
+            0.11
+        ],
+        "grade": [
+            0.64,
+            0.33,
+            0.03
+        ]
+    },
+    {
+        "course_number": "RGC1014-01",
+        "course_name": "지혜와자비명작세미나",
+        "professor_name": "서정원",
+        "time": [
+            [
+                "월",
+                1.0,
+                2.0
+            ],
+            [
+                "목",
+                2.5,
+                3.5
+            ]
+        ],
+        "lecture_room": [
+            [
+                3,
+                2
+            ],
+            [
+                3,
+                2
+            ]
+        ],
+        "assignment": [
+            0.43,
+            0.57,
+            0.0
+        ],
+        "group_meeting": [
+            0.0,
+            0.93,
+            0.07
+        ],
+        "grade": [
+            0.71,
+            0.29,
+            0.0
+        ]
+    },
+    {
+        "course_number": "RGC1014-02",
+        "course_name": "지혜와자비명작세미나",
+        "professor_name": "김성옥",
+        "time": [
+            [
+                "월",
+                1.0,
+                2.0
+            ],
+            [
+                "목",
+                2.5,
+                3.5
+            ]
+        ],
+        "lecture_room": [
+            [
+                -3,
+                4
+            ],
+            [
+                -3,
+                4
+            ]
+        ],
+        "assignment": [
+            0.04,
+            0.54,
+            0.43
+        ],
+        "group_meeting": [
+            0.25,
+            0.47,
+            0.28
+        ],
+        "grade": [
+            0.25,
+            0.56,
+            0.19
+        ]
+    },
+    {
+        "course_number": "RGC1014-03",
+        "course_name": "지혜와자비명작세미나",
+        "professor_name": "김은영",
+        "time": [
+            [
+                "월",
+                1.0,
+                2.0
+            ],
+            [
+                "목",
+                2.5,
+                3.5
+            ]
+        ],
+        "lecture_room": [
+            [
+                -2,
+                5
+            ],
+            [
+                -2,
+                5
+            ]
+        ],
+        "assignment": [
+            0.13,
+            0.86,
+            0.01
+        ],
+        "group_meeting": [
+            0.02,
+            0.74,
+            0.25
+        ],
+        "grade": [
+            0.76,
+            0.23,
+            0.01
+        ]
+    },
+    {
+        "course_number": "PRI4025-01",
+        "course_name": "공학수학1",
+        "professor_name": "조영덕",
+        "time": [
+            [
+                "월",
+                4.0,
+                5.0
+            ],
+            [
+                "수",
+                3.0,
+                4.0
+            ]
+        ],
+        "lecture_room": [
+            [
+                -3,
+                4
+            ],
+            [
+                -3,
+                4
+            ]
+        ],
+        "assignment": [
+            0.05,
+            0.9,
+            0.05
+        ],
+        "group_meeting": [
+            0.69,
+            0.29,
+            0.02
+        ],
+        "grade": [
+            0.33,
+            0.48,
+            0.19
+        ]
+    },
+    {
+        "course_number": "PRI4025-02",
+        "course_name": "공학수학1",
+        "professor_name": "최광호",
+        "time": [
+            [
+                "월",
+                8.0,
+                9.5
+            ],
+            [
+                "수",
+                6.0,
+                7.0
+            ]
+        ],
+        "lecture_room": [
+            [
+                -3,
+                4
+            ],
+            [
+                -3,
+                4
+            ]
+        ],
+        "assignment": [
+            0.0,
+            0.46,
+            0.54
+        ],
+        "group_meeting": [
+            0.92,
+            0.08,
+            0.0
+        ],
+        "grade": [
+            0.48,
+            0.48,
+            0.06
+        ]
+    },
+    {
+        "course_number": "PRI4025-03",
+        "course_name": "공학수학1",
+        "professor_name": "김동호",
+        "time": [
+            [
+                "화",
+                8.0,
+                9.0
+            ],
+            [
+                "목",
+                8.5,
+                9.5
+            ]
+        ],
+        "lecture_room": [
+            [
+                -3,
+                4
+            ],
+            [
+                -3,
+                4
+            ]
+        ],
+        "assignment": [
+            0.33,
+            0.33,
+            0.34
+        ],
+        "group_meeting": [
+            0.33,
+            0.33,
+            0.34
+        ],
+        "grade": [
+            0.33,
+            0.33,
+            0.34
+        ]
+    },
+    {
+        "course_number": "PRI4025-04",
+        "course_name": "공학수학1",
+        "professor_name": "조범규",
+        "time": [
+            [
+                "수",
+                8.0,
+                9.0
+            ],
+            [
+                "금",
+                8.0,
+                9.0
+            ]
+        ],
+        "lecture_room": [
+            [
+                -3,
+                4
+            ],
+            [
+                -3,
+                4
+            ]
+        ],
+        "assignment": [
+            0.3,
+            0.35,
+            0.35
+        ],
+        "group_meeting": [
+            0.85,
+            0.15,
+            0.0
+        ],
+        "grade": [
+            0.2,
+            0.35,
+            0.45
+        ]
+    },
+    {
+        "course_number": "PRI4012-01",
+        "course_name": "미적분학및연습2",
+        "professor_name": "엄건애",
+        "time": [
+            [
+                "월",
+                4.0,
+                5.0
+            ],
+            [
+                "수",
+                3.0,
+                4.0
+            ]
+        ],
+        "lecture_room": [
+            [
+                -3,
+                4
+            ],
+            [
+                -3,
+                4
+            ]
+        ],
+        "assignment": [
+            0.06,
+            0.87,
+            0.06
+        ],
+        "group_meeting": [
+            0.93,
+            0.07,
+            0.0
+        ],
+        "grade": [
+            0.64,
+            0.35,
+            0.01
+        ]
+    },
+    {
+        "course_number": "PRI4012-02",
+        "course_name": "미적분학및연습2",
+        "professor_name": "최광호",
+        "time": [
+            [
+                "월",
+                4.0,
+                5.0
+            ],
+            [
+                "수",
+                3.0,
+                4.0
+            ]
+        ],
+        "lecture_room": [
+            [
+                -3,
+                4
+            ],
+            [
+                -3,
+                4
+            ]
+        ],
+        "assignment": [
+            0.03,
+            0.57,
+            0.41
+        ],
+        "group_meeting": [
+            0.92,
+            0.08,
+            0.0
+        ],
+        "grade": [
+            0.32,
+            0.54,
+            0.14
+        ]
+    },
+    {
+        "course_number": "PRI4012-03",
+        "course_name": "미적분학및연습2",
+        "professor_name": "임영빈",
+        "time": [
+            [
+                "월",
+                4.0,
+                5.0
+            ],
+            [
+                "수",
+                3.0,
+                4.0
+            ]
+        ],
+        "lecture_room": [
+            [
+                -3,
+                4
+            ],
+            [
+                -3,
+                4
+            ]
+        ],
+        "assignment": [
+            0.22,
+            0.69,
+            0.09
+        ],
+        "group_meeting": [
+            0.91,
+            0.09,
+            0.0
+        ],
+        "grade": [
+            0.29,
+            0.38,
+            0.32
+        ]
+    },
+    {
+        "course_number": "PRI4012-04",
+        "course_name": "미적분학및연습2",
+        "professor_name": "심호진",
+        "time": [
+            [
+                "월",
+                8.5,
+                9.5
+            ],
+            [
+                "수",
+                6.0,
+                7.0
+            ]
+        ],
+        "lecture_room": [
+            [
+                2,
+                2
+            ],
+            [
+                2,
+                2
+            ]
+        ],
+        "assignment": [
+            0.0,
+            0.58,
+            0.42
+        ],
+        "group_meeting": [
+            0.95,
+            0.05,
+            0.0
+        ],
+        "grade": [
+            0.53,
+            0.26,
+            0.21
+        ]
+    },
+    {
+        "course_number": "PRI4012-05",
+        "course_name": "미적분학및연습2",
+        "professor_name": "김동호",
+        "time": [
+            [
+                "화",
+                6.0,
+                7.0
+            ],
+            [
+                "목",
+                6.0,
+                7.0
+            ]
+        ],
+        "lecture_room": [
+            [
+                2,
+                2
+            ],
+            [
+                2,
+                2
+            ]
+        ],
+        "assignment": [
+            0.07,
+            0.8,
+            0.13
+        ],
+        "group_meeting": [
+            0.8,
+            0.2,
+            0.0
+        ],
+        "grade": [
+            0.87,
+            0.13,
+            0.0
+        ]
+    },
+    {
+        "course_number": "PRI4012-06",
+        "course_name": "미적분학및연습2",
+        "professor_name": "엄건애",
+        "time": [
+            [
+                "수",
+                4.5,
+                5.5
+            ],
+            [
+                "금",
+                4.0,
+                5.0
+            ]
+        ],
+        "lecture_room": [
+            [
+                -3,
+                4
+            ],
+            [
+                -3,
+                4
+            ]
+        ],
+        "assignment": [
+            0.06,
+            0.87,
+            0.06
+        ],
+        "group_meeting": [
+            0.93,
+            0.07,
+            0.0
+        ],
+        "grade": [
+            0.64,
+            0.35,
+            0.01
+        ]
+    },
+    {
+        "course_number": "PRI4012-07",
+        "course_name": "미적분학및연습2",
+        "professor_name": "임영빈",
+        "time": [
+            [
+                "화",
+                4.0,
+                5.0
+            ],
+            [
+                "목",
+                4.0,
+                5.0
+            ]
+        ],
+        "lecture_room": [
+            [
+                -3,
+                4
+            ],
+            [
+                -3,
+                4
+            ]
+        ],
+        "assignment": [
+            0.22,
+            0.69,
+            0.09
+        ],
+        "group_meeting": [
+            0.91,
+            0.09,
+            0.0
+        ],
+        "grade": [
+            0.29,
+            0.38,
+            0.32
+        ]
+    },
+    {
+        "course_number": "PRI4012-08",
+        "course_name": "미적분학및연습2",
+        "professor_name": "박장희",
+        "time": [
+            [
+                "화",
+                4.0,
+                5.0
+            ],
+            [
+                "목",
+                4.0,
+                5.0
+            ]
+        ],
+        "lecture_room": [
+            [
+                4,
+                3
+            ],
+            [
+                4,
+                3
+            ]
+        ],
+        "assignment": [
+            0.13,
+            0.84,
+            0.03
+        ],
+        "group_meeting": [
+            0.88,
+            0.13,
+            0.0
+        ],
+        "grade": [
+            0.41,
+            0.41,
+            0.19
+        ]
+    },
+    {
+        "course_number": "PRI4012-09",
+        "course_name": "미적분학및연습2",
+        "professor_name": "박정준",
+        "time": [
+            [
+                "화",
+                4.0,
+                5.0
+            ],
+            [
+                "목",
+                4.0,
+                5.0
+            ]
+        ],
+        "lecture_room": [
+            [
+                3,
+                2
+            ],
+            [
+                3,
+                2
+            ]
+        ],
+        "assignment": [
+            0.03,
+            0.74,
+            0.23
+        ],
+        "group_meeting": [
+            0.85,
+            0.15,
+            0.0
+        ],
+        "grade": [
+            0.25,
+            0.69,
+            0.07
+        ]
+    },
+    {
+        "course_number": "PRI4012-10",
+        "course_name": "미적분학및연습2",
+        "professor_name": "박상웅",
+        "time": [
+            [
+                "수",
+                10.0,
+                12.5
+            ]
+        ],
+        "lecture_room": [
+            [
+                0,
+                1
+            ]
+        ],
+        "assignment": [
+            0.06,
+            0.81,
+            0.13
+        ],
+        "group_meeting": [
+            0.94,
+            0.06,
+            0.0
+        ],
+        "grade": [
+            0.45,
+            0.45,
+            0.06
+        ]
+    },
+    {
+        "course_number": "PRI4012-11",
+        "course_name": "미적분학및연습2",
+        "professor_name": "임영빈",
+        "time": [
+            [
+                "화",
+                6.0,
+                7.0
+            ],
+            [
+                "목",
+                7.0,
+                8.0
+            ]
+        ],
+        "lecture_room": [
+            [
+                -3,
+                4
+            ],
+            [
+                -3,
+                4
+            ]
+        ],
+        "assignment": [
+            0.22,
+            0.69,
+            0.09
+        ],
+        "group_meeting": [
+            0.91,
+            0.09,
+            0.0
+        ],
+        "grade": [
+            0.29,
+            0.38,
+            0.32
+        ]
+    },
+    {
+        "course_number": "PRI4012-12",
+        "course_name": "미적분학및연습2",
+        "professor_name": "권기운",
+        "time": [
+            [
+                "화",
+                6.0,
+                7.0
+            ],
+            [
+                "목",
+                6.0,
+                7.0
+            ]
+        ],
+        "lecture_room": [
+            [
+                4,
+                3
+            ],
+            [
+                4,
+                3
+            ]
+        ],
+        "assignment": [
+            0.33,
+            0.33,
+            0.34
+        ],
+        "group_meeting": [
+            0.33,
+            0.33,
+            0.34
+        ],
+        "grade": [
+            0.33,
+            0.33,
+            0.34
+        ]
+    },
+    {
+        "course_number": "PRI4012-13",
+        "course_name": "미적분학및연습2",
+        "professor_name": "박호",
+        "time": [
+            [
+                "화",
+                6.0,
+                7.0
+            ],
+            [
+                "목",
+                6.0,
+                7.0
+            ]
+        ],
+        "lecture_room": [
+            [
+                3,
+                2
+            ],
+            [
+                3,
+                2
+            ]
+        ],
+        "assignment": [
+            0.17,
+            0.71,
+            0.12
+        ],
+        "group_meeting": [
+            0.92,
+            0.08,
+            0.0
+        ],
+        "grade": [
+            0.32,
+            0.37,
+            0.31
+        ]
+    },
+    {
+        "course_number": "PRI4012-14",
+        "course_name": "미적분학및연습2",
+        "professor_name": "박정준",
+        "time": [
+            [
+                "화",
+                8.0,
+                9.0
+            ],
+            [
+                "목",
+                8.5,
+                9.5
+            ]
+        ],
+        "lecture_room": [
+            [
+                4,
+                3
+            ],
+            [
+                4,
+                3
+            ]
+        ],
+        "assignment": [
+            0.03,
+            0.74,
+            0.23
+        ],
+        "group_meeting": [
+            0.85,
+            0.15,
+            0.0
+        ],
+        "grade": [
+            0.25,
+            0.69,
+            0.07
+        ]
+    },
+    {
+        "course_number": "RGC0017-01",
+        "course_name": "자아와명상1",
+        "professor_name": "이동하(동하)",
+        "time": [
+            [
+                "월",
+                1.0,
+                1.5
+            ]
+        ],
+        "lecture_room": [
+            [
+                1,
+                1
+            ]
+        ],
+        "assignment": [
+            0.31,
+            0.69,
+            0.0
+        ],
+        "group_meeting": [
+            0.59,
+            0.29,
+            0.12
+        ],
+        "grade": [
+            0.86,
+            0.12,
+            0.02
+        ]
+    },
+    {
+        "course_number": "RGC0017-02",
+        "course_name": "자아와명상1",
+        "professor_name": "김수덕(서암)",
+        "time": [
+            [
+                "화",
+                1.0,
+                1.5
+            ]
+        ],
+        "lecture_room": [
+            [
+                1,
+                1
+            ]
+        ],
+        "assignment": [
+            0.09,
+            0.77,
+            0.14
+        ],
+        "group_meeting": [
+            0.8,
+            0.19,
+            0.01
+        ],
+        "grade": [
+            0.74,
+            0.23,
+            0.03
+        ]
+    },
+    {
+        "course_number": "RGC0017-04",
+        "course_name": "자아와명상1",
+        "professor_name": "신둘연(현봉)",
+        "time": [
+            [
+                "수",
+                1.0,
+                1.5
+            ]
+        ],
+        "lecture_room": [
+            [
+                4,
+                3
+            ]
+        ],
+        "assignment": [
+            0.07,
+            0.74,
+            0.19
+        ],
+        "group_meeting": [
+            0.69,
+            0.27,
+            0.04
+        ],
+        "grade": [
+            0.76,
+            0.23,
+            0.01
+        ]
+    },
+    {
+        "course_number": "RGC0017-05",
+        "course_name": "자아와명상1",
+        "professor_name": "이견명(견명)",
+        "time": [
+            [
+                "목",
+                1.0,
+                1.5
+            ]
+        ],
+        "lecture_room": [
+            [
+                1,
+                1
+            ]
+        ],
+        "assignment": [
+            0.23,
+            0.77,
+            0.0
+        ],
+        "group_meeting": [
+            0.95,
+            0.05,
+            0.0
+        ],
+        "grade": [
+            0.82,
+            0.18,
+            0.0
+        ]
+    },
+    {
+        "course_number": "RGC0017-06",
+        "course_name": "자아와명상1",
+        "professor_name": "천윤성(윤성)",
+        "time": [
+            [
+                "목",
+                5.5,
+                6.0
+            ]
+        ],
+        "lecture_room": [
+            [
+                1,
+                1
+            ]
+        ],
+        "assignment": [
+            0.26,
+            0.74,
+            0.0
+        ],
+        "group_meeting": [
+            0.07,
+            0.07,
+            0.85
+        ],
+        "grade": [
+            0.78,
+            0.22,
+            0.0
+        ]
+    },
+    {
+        "course_number": "RGC0017-07",
+        "course_name": "자아와명상1",
+        "professor_name": "김흥빈(지광)",
+        "time": [
+            [
+                "금",
+                1.0,
+                1.5
+            ]
+        ],
+        "lecture_room": [
+            [
+                1,
+                1
+            ]
+        ],
+        "assignment": [
+            0.15,
+            0.79,
+            0.06
+        ],
+        "group_meeting": [
+            1.0,
+            0.0,
+            0.0
+        ],
+        "grade": [
+            0.86,
+            0.14,
+            0.0
+        ]
+    },
+    {
+        "course_number": "RGC0017-08",
+        "course_name": "자아와명상1",
+        "professor_name": "장완순(행범)",
+        "time": [
+            [
+                "월",
+                10.0,
+                10.5
+            ]
+        ],
+        "lecture_room": [
+            [
+                -3,
+                4
+            ]
+        ],
+        "assignment": [
+            0.18,
+            0.75,
+            0.07
+        ],
+        "group_meeting": [
+            0.88,
+            0.12,
+            0.0
+        ],
+        "grade": [
+            0.83,
+            0.15,
+            0.03
+        ]
+    },
+    {
+        "course_number": "RGC0017-09",
+        "course_name": "자아와명상1",
+        "professor_name": "장완순(행범)",
+        "time": [
+            [
+                "월",
+                11.0,
+                11.5
+            ]
+        ],
+        "lecture_room": [
+            [
+                -3,
+                4
+            ]
+        ],
+        "assignment": [
+            0.18,
+            0.75,
+            0.07
+        ],
+        "group_meeting": [
+            0.88,
+            0.12,
+            0.0
+        ],
+        "grade": [
+            0.83,
+            0.15,
+            0.03
+        ]
+    },
+    {
+        "course_number": "RGC0017-10",
+        "course_name": "자아와명상1",
+        "professor_name": "공숙자(보희)",
+        "time": [
+            [
+                "월",
+                8.0,
+                8.5
+            ]
+        ],
+        "lecture_room": [
+            [
+                3,
+                3
+            ]
+        ],
+        "assignment": [
+            0.13,
+            0.86,
+            0.02
+        ],
+        "group_meeting": [
+            0.87,
+            0.13,
+            0.0
+        ],
+        "grade": [
+            0.87,
+            0.13,
+            0.01
+        ]
+    },
+    {
+        "course_number": "RGC0017-11",
+        "course_name": "자아와명상1",
+        "professor_name": "정주영(효림)",
+        "time": [
+            [
+                "수",
+                3.0,
+                3.5
+            ]
+        ],
+        "lecture_room": [
+            [
+                -3,
+                4
+            ]
+        ],
+        "assignment": [
+            0.67,
+            0.33,
+            0.0
+        ],
+        "group_meeting": [
+            0.75,
+            0.25,
+            0.0
+        ],
+        "grade": [
+            0.96,
+            0.04,
+            0.0
+        ]
+    },
+    {
+        "course_number": "RGC0018-01",
+        "course_name": "자아와명상2",
+        "professor_name": "조서호(법명)",
+        "time": [
+            [
+                "월",
+                1.0,
+                1.5
+            ]
+        ],
+        "lecture_room": [
+            [
+                -3,
+                4
+            ]
+        ],
+        "assignment": [
+            0.57,
+            0.43,
+            0.0
+        ],
+        "group_meeting": [
+            0.93,
+            0.07,
+            0.0
+        ],
+        "grade": [
+            0.88,
+            0.12,
+            0.0
+        ]
+    },
+    {
+        "course_number": "RGC0018-02",
+        "course_name": "자아와명상2",
+        "professor_name": "하영수(진본)",
+        "time": [
+            [
+                "월",
+                1.0,
+                1.5
+            ]
+        ],
+        "lecture_room": [
+            [
+                4,
+                3
+            ]
+        ],
+        "assignment": [
+            0.27,
+            0.69,
+            0.04
+        ],
+        "group_meeting": [
+            0.84,
+            0.12,
+            0.04
+        ],
+        "grade": [
+            0.73,
+            0.23,
+            0.04
+        ]
+    },
+    {
+        "course_number": "RGC0018-03",
+        "course_name": "자아와명상2",
+        "professor_name": "이동하(동하)",
+        "time": [
+            [
+                "월",
+                2.0,
+                2.5
+            ]
+        ],
+        "lecture_room": [
+            [
+                1,
+                1
+            ]
+        ],
+        "assignment": [
+            0.22,
+            0.75,
+            0.03
+        ],
+        "group_meeting": [
+            0.28,
+            0.44,
+            0.28
+        ],
+        "grade": [
+            0.88,
+            0.13,
+            0.0
+        ]
+    },
+    {
+        "course_number": "RGC0018-04",
+        "course_name": "자아와명상2",
+        "professor_name": "조서호(법명)",
+        "time": [
+            [
+                "월",
+                2.0,
+                2.5
+            ]
+        ],
+        "lecture_room": [
+            [
+                -3,
+                4
+            ]
+        ],
+        "assignment": [
+            0.57,
+            0.43,
+            0.0
+        ],
+        "group_meeting": [
+            0.93,
+            0.07,
+            0.0
+        ],
+        "grade": [
+            0.88,
+            0.12,
+            0.0
+        ]
+    },
+    {
+        "course_number": "RGC0018-05",
+        "course_name": "자아와명상2",
+        "professor_name": "하영수(진본)",
+        "time": [
+            [
+                "월",
+                2.0,
+                2.5
+            ]
+        ],
+        "lecture_room": [
+            [
+                4,
+                3
+            ]
+        ],
+        "assignment": [
+            0.27,
+            0.69,
+            0.04
+        ],
+        "group_meeting": [
+            0.84,
+            0.12,
+            0.04
+        ],
+        "grade": [
+            0.73,
+            0.23,
+            0.04
+        ]
+    },
+    {
+        "course_number": "RGC0018-06",
+        "course_name": "자아와명상2",
+        "professor_name": "이동하(동하)",
+        "time": [
+            [
+                "월",
+                3.0,
+                3.5
+            ]
+        ],
+        "lecture_room": [
+            [
+                1,
+                2
+            ]
+        ],
+        "assignment": [
+            0.22,
+            0.75,
+            0.03
+        ],
+        "group_meeting": [
+            0.28,
+            0.44,
+            0.28
+        ],
+        "grade": [
+            0.88,
+            0.13,
+            0.0
+        ]
+    },
+    {
+        "course_number": "RGC0018-07",
+        "course_name": "자아와명상2",
+        "professor_name": "조서호(법명)",
+        "time": [
+            [
+                "월",
+                3.0,
+                3.5
+            ]
+        ],
+        "lecture_room": [
+            [
+                -3,
+                4
+            ]
+        ],
+        "assignment": [
+            0.57,
+            0.43,
+            0.0
+        ],
+        "group_meeting": [
+            0.93,
+            0.07,
+            0.0
+        ],
+        "grade": [
+            0.88,
+            0.12,
+            0.0
+        ]
+    },
+    {
+        "course_number": "RGC0018-08",
+        "course_name": "자아와명상2",
+        "professor_name": "하영수(진본)",
+        "time": [
+            [
+                "월",
+                3.0,
+                3.5
+            ]
+        ],
+        "lecture_room": [
+            [
+                4,
+                3
+            ]
+        ],
+        "assignment": [
+            0.27,
+            0.69,
+            0.04
+        ],
+        "group_meeting": [
+            0.73,
+            0.23,
+            0.04
+        ],
+        "grade": [
+            0.73,
+            0.23,
+            0.04
+        ]
+    },
+    {
+        "course_number": "RGC0018-09",
+        "course_name": "자아와명상2",
+        "professor_name": "이동하(동하)",
+        "time": [
+            [
+                "월",
+                5.5,
+                6.0
+            ]
+        ],
+        "lecture_room": [
+            [
+                1,
+                2
+            ]
+        ],
+        "assignment": [
+            0.22,
+            0.75,
+            0.03
+        ],
+        "group_meeting": [
+            0.28,
+            0.44,
+            0.28
+        ],
+        "grade": [
+            0.88,
+            0.13,
+            0.0
+        ]
+    },
+    {
+        "course_number": "RGC0018-10",
+        "course_name": "자아와명상2",
+        "professor_name": "김종욱(원충)",
+        "time": [
+            [
+                "월",
+                6.5,
+                7.0
+            ]
+        ],
+        "lecture_room": [
+            [
+                1,
+                2
+            ]
+        ],
+        "assignment": [
+            0.6,
+            0.4,
+            0.0
+        ],
+        "group_meeting": [
+            0.6,
+            0.4,
+            0.0
+        ],
+        "grade": [
+            0.6,
+            0.4,
+            0.0
+        ]
+    },
+    {
+        "course_number": "RGC0018-11",
+        "course_name": "자아와명상2",
+        "professor_name": "이동하(동하)",
+        "time": [
+            [
+                "월",
+                6.5,
+                7.0
+            ]
+        ],
+        "lecture_room": [
+            [
+                1,
+                2
+            ]
+        ],
+        "assignment": [
+            0.22,
+            0.75,
+            0.03
+        ],
+        "group_meeting": [
+            0.28,
+            0.44,
+            0.28
+        ],
+        "grade": [
+            0.88,
+            0.13,
+            0.0
+        ]
+    },
+    {
+        "course_number": "RGC0018-12",
+        "course_name": "자아와명상2",
+        "professor_name": "김종욱(원충)",
+        "time": [
+            [
+                "월",
+                7.5,
+                8.0
+            ]
+        ],
+        "lecture_room": [
+            [
+                1,
+                2
+            ]
+        ],
+        "assignment": [
+            0.6,
+            0.4,
+            0.0
+        ],
+        "group_meeting": [
+            0.6,
+            0.4,
+            0.0
+        ],
+        "grade": [
+            0.6,
+            0.4,
+            0.0
+        ]
+    },
+    {
+        "course_number": "RGC0018-13",
+        "course_name": "자아와명상2",
+        "professor_name": "조서호(법명)",
+        "time": [
+            [
+                "월",
+                7.5,
+                8.0
+            ]
+        ],
+        "lecture_room": [
+            [
+                -3,
+                4
+            ]
+        ],
+        "assignment": [
+            0.57,
+            0.43,
+            0.0
+        ],
+        "group_meeting": [
+            0.93,
+            0.07,
+            0.0
+        ],
+        "grade": [
+            0.88,
+            0.12,
+            0.0
+        ]
+    },
+    {
+        "course_number": "CSE4029-01",
+        "course_name": "컴퓨터알고리즘과실습",
+        "professor_name": "정진우",
+        "time": [
+            [
+                "화",
+                7.0,
+                8.5
+            ],
+            [
+                "목",
+                9.0,
+                10.5
+            ]
+        ],
+        "lecture_room": [
+            [
+                -3,
+                1
+            ],
+            [
+                -3,
+                1
+            ]
+        ],
+        "assignment": [
+            0.0,
+            0.5,
+            0.5
+        ],
+        "group_meeting": [
+            0.1,
+            0.8,
+            0.1
+        ],
+        "grade": [
+            0.3,
+            0.7,
+            0.0
+        ]
+    },
+    {
+        "course_number": "CSE4029-02",
+        "course_name": "컴퓨터알고리즘과실습",
+        "professor_name": "정진우",
+        "time": [
+            [
+                "화",
+                9.0,
+                10.5
+            ],
+            [
+                "목",
+                7.0,
+                8.5
+            ]
+        ],
+        "lecture_room": [
+            [
+                -3,
+                1
+            ],
+            [
+                -3,
+                1
+            ]
+        ],
+        "assignment": [
+            0.0,
+            0.5,
+            0.5
+        ],
+        "group_meeting": [
+            0.1,
+            0.8,
+            0.1
+        ],
+        "grade": [
+            0.3,
+            0.7,
+            0.0
+        ]
+    },
+    {
+        "course_number": "CSE4029-03",
+        "course_name": "컴퓨터알고리즘과실습",
+        "professor_name": "김동우",
+        "time": [
+            [
+                "화",
+                2.0,
+                3.5
+            ],
+            [
+                "금",
+                2.0,
+                3.5
+            ]
+        ],
+        "lecture_room": [
+            [
+                -3,
+                1
+            ],
+            [
+                -3,
+                1
+            ]
+        ],
+        "assignment": [
+            0.33,
+            0.34,
+            0.33
+        ],
+        "group_meeting": [
+            0.33,
+            0.33,
+            0.34
+        ],
+        "grade": [
+            0.33,
+            0.33,
+            0.34
+        ]
+    },
+    {
+        "course_number": "CSE2024-01",
+        "course_name": "프로그래밍언어개념",
+        "professor_name": "송수환",
+        "time": [
+            [
+                "월",
+                2.5,
+                3.5
+            ],
+            [
+                "수",
+                7.0,
+                8.0
+            ]
+        ],
+        "lecture_room": [
+            [
+                -3,
+                1
+            ],
+            [
+                -3,
+                1
+            ]
+        ],
+        "assignment": [
+            0.5,
+            0.5,
+            0.0
+        ],
+        "group_meeting": [
+            1.0,
+            0.0,
+            0.0
+        ],
+        "grade": [
+            0.78,
+            0.22,
+            0.0
+        ]
+    },
+    {
+        "course_number": "CSE2024-02",
+        "course_name": "프로그래밍언어개념",
+        "professor_name": "송수환",
+        "time": [
+            [
+                "월",
+                11.0,
+                12.0
+            ],
+            [
+                "목",
+                11.0,
+                12.0
+            ]
+        ],
+        "lecture_room": [
+            [
+                -3,
+                1
+            ],
+            [
+                -3,
+                1
+            ]
+        ],
+        "assignment": [
+            0.5,
+            0.5,
+            0.0
+        ],
+        "group_meeting": [
+            1.0,
+            0.0,
+            0.0
+        ],
+        "grade": [
+            0.78,
+            0.22,
+            0.0
+        ]
+    },
+    {
+        "course_number": "RGC1080-01",
+        "course_name": "EAS1",
+        "professor_name": "브라이언킨",
+        "time": [
+            [
+                "월",
+                4.0,
+                5.5
+            ]
+        ],
+        "lecture_room": [
+            [
+                2,
+                2
+            ]
+        ],
+        "assignment": [
+            0.01,
+            0.36,
+            0.63
+        ],
+        "group_meeting": [
+            0.35,
+            0.47,
+            0.17
+        ],
+        "grade": [
+            0.32,
+            0.48,
+            0.2
+        ]
+    },
+    {
+        "course_number": "RGC1080-02",
+        "course_name": "EAS1",
+        "professor_name": "제프벨리",
+        "time": [
+            [
+                "목",
+                4.0,
+                5.5
+            ]
+        ],
+        "lecture_room": [
+            [
+                2,
+                2
+            ]
+        ],
+        "assignment": [
+            0.04,
+            0.56,
+            0.4
+        ],
+        "group_meeting": [
+            0.09,
+            0.68,
+            0.23
+        ],
+        "grade": [
+            0.37,
+            0.47,
+            0.17
+        ]
+    },
+    {
+        "course_number": "RGC1080-03",
+        "course_name": "EAS1",
+        "professor_name": "브라이언킨",
+        "time": [
+            [
+                "월",
+                2.0,
+                3.5
+            ]
+        ],
+        "lecture_room": [
+            [
+                2,
+                2
+            ]
+        ],
+        "assignment": [
+            0.01,
+            0.36,
+            0.63
+        ],
+        "group_meeting": [
+            0.35,
+            0.47,
+            0.17
+        ],
+        "grade": [
+            0.32,
+            0.48,
+            0.2
+        ]
+    },
+    {
+        "course_number": "RGC1080-05",
+        "course_name": "EAS1",
+        "professor_name": "폴로저스",
+        "time": [
+            [
+                "목",
+                2.0,
+                3.5
+            ]
+        ],
+        "lecture_room": [
+            [
+                4,
+                3
+            ]
+        ],
+        "assignment": [
+            0.04,
+            0.82,
+            0.14
+        ],
+        "group_meeting": [
+            0.08,
+            0.77,
+            0.15
+        ],
+        "grade": [
+            0.8,
+            0.17,
+            0.02
+        ]
+    },
+    {
+        "course_number": "RGC1080-06",
+        "course_name": "EAS1",
+        "professor_name": "데이린프롤리",
+        "time": [
+            [
+                "금",
+                7.0,
+                8.5
+            ]
+        ],
+        "lecture_room": [
+            [
+                1,
+                1
+            ]
+        ],
+        "assignment": [
+            0.04,
+            0.67,
+            0.29
+        ],
+        "group_meeting": [
+            0.01,
+            0.83,
+            0.15
+        ],
+        "grade": [
+            0.61,
+            0.38,
+            0.01
+        ]
+    },
+    {
+        "course_number": "RGC1080-07",
+        "course_name": "EAS1",
+        "professor_name": "제프벨리",
+        "time": [
+            [
+                "화",
+                7.5,
+                9.0
+            ]
+        ],
+        "lecture_room": [
+            [
+                2,
+                2
+            ]
+        ],
+        "assignment": [
+            0.04,
+            0.56,
+            0.4
+        ],
+        "group_meeting": [
+            0.09,
+            0.68,
+            0.23
+        ],
+        "grade": [
+            0.37,
+            0.47,
+            0.17
+        ]
+    },
+    {
+        "course_number": "RGC1080-08",
+        "course_name": "EAS1",
+        "professor_name": "캐서린무어",
+        "time": [
+            [
+                "수",
+                8.0,
+                9.5
+            ]
+        ],
+        "lecture_room": [
+            [
+                1,
+                1
+            ]
+        ],
+        "assignment": [
+            0.35,
+            0.63,
+            0.02
+        ],
+        "group_meeting": [
+            0.1,
+            0.72,
+            0.17
+        ],
+        "grade": [
+            0.72,
+            0.26,
+            0.02
+        ]
+    },
+    {
+        "course_number": "RGC1080-09",
+        "course_name": "EAS1",
+        "professor_name": "소컴켕",
+        "time": [
+            [
+                "월",
+                6.5,
+                8.0
+            ]
+        ],
+        "lecture_room": [
+            [
+                3,
+                2
+            ]
+        ],
+        "assignment": [
+            0.0,
+            0.23,
+            0.77
+        ],
+        "group_meeting": [
+            0.07,
+            0.73,
+            0.2
+        ],
+        "grade": [
+            0.31,
+            0.51,
+            0.18
+        ]
+    },
+    {
+        "course_number": "RGC1080-10",
+        "course_name": "EAS1",
+        "professor_name": "브라이언오라스",
+        "time": [
+            [
+                "화",
+                3.0,
+                4.5
+            ]
+        ],
+        "lecture_room": [
+            [
+                2,
+                2
+            ]
+        ],
+        "assignment": [
+            0.24,
+            0.74,
+            0.02
+        ],
+        "group_meeting": [
+            0.18,
+            0.65,
+            0.17
+        ],
+        "grade": [
+            0.75,
+            0.24,
+            0.01
+        ]
+    },
+    {
+        "course_number": "RGC1080-11",
+        "course_name": "EAS1",
+        "professor_name": "소컴켕",
+        "time": [
+            [
+                "화",
+                10.0,
+                11.5
+            ]
+        ],
+        "lecture_room": [
+            [
+                2,
+                2
+            ]
+        ],
+        "assignment": [
+            0.0,
+            0.23,
+            0.77
+        ],
+        "group_meeting": [
+            0.07,
+            0.73,
+            0.2
+        ],
+        "grade": [
+            0.31,
+            0.51,
+            0.18
+        ]
+    }
+]

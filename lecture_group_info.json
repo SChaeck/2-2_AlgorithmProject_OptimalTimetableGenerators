@@ -1,0 +1,935 @@
+[
+    [
+        {
+            "course_number": "CSE4029-01",
+            "course_name": "컴퓨터알고리즘과실습",
+            "professor_name": "정진우",
+            "information": [
+                [
+                    31.0,
+                    32.5,
+                    [
+                        -3,
+                        1
+                    ]
+                ],
+                [
+                    81.0,
+                    82.5,
+                    [
+                        -3,
+                        1
+                    ]
+                ]
+            ],
+            "total_value": 2.8666666666666663,
+            "group": 1
+        },
+        {
+            "course_number": "CSE4029-02",
+            "course_name": "컴퓨터알고리즘과실습",
+            "professor_name": "정진우",
+            "information": [
+                [
+                    33.0,
+                    34.5,
+                    [
+                        -3,
+                        1
+                    ]
+                ],
+                [
+                    79.0,
+                    80.5,
+                    [
+                        -3,
+                        1
+                    ]
+                ]
+            ],
+            "total_value": 2.8666666666666663,
+            "group": 1
+        },
+        {
+            "course_number": "CSE4029-03",
+            "course_name": "컴퓨터알고리즘과실습",
+            "professor_name": "김동우",
+            "information": [
+                [
+                    26.0,
+                    27.5,
+                    [
+                        -3,
+                        1
+                    ]
+                ],
+                [
+                    98.0,
+                    99.5,
+                    [
+                        -3,
+                        1
+                    ]
+                ]
+            ],
+            "total_value": 2.9866666666666664,
+            "group": 1
+        }
+    ],
+    [
+        {
+            "course_number": "ASW2009-01",
+            "course_name": "객체지향프로그래밍",
+            "professor_name": "석문기",
+            "information": [
+                [
+                    29.0,
+                    30.5,
+                    [
+                        -3,
+                        1
+                    ]
+                ],
+                [
+                    77.0,
+                    78.5,
+                    [
+                        -3,
+                        1
+                    ]
+                ]
+            ],
+            "total_value": 3.46,
+            "group": 2
+        },
+        {
+            "course_number": "ASW2009-02",
+            "course_name": "객체지향프로그래밍",
+            "professor_name": "박재철",
+            "information": [
+                [
+                    57.0,
+                    58.5,
+                    [
+                        -3,
+                        1
+                    ]
+                ],
+                [
+                    74.0,
+                    75.5,
+                    [
+                        -3,
+                        1
+                    ]
+                ]
+            ],
+            "total_value": 4.236666666666666,
+            "group": 2
+        },
+        {
+            "course_number": "ASW2009-03",
+            "course_name": "객체지향프로그래밍",
+            "professor_name": "한인",
+            "information": [
+                [
+                    5.0,
+                    6.5,
+                    [
+                        -3,
+                        1
+                    ]
+                ],
+                [
+                    81.0,
+                    82.5,
+                    [
+                        -3,
+                        1
+                    ]
+                ]
+            ],
+            "total_value": 3.933333333333333,
+            "group": 2
+        },
+        {
+            "course_number": "ASW2009-04",
+            "course_name": "객체지향프로그래밍",
+            "professor_name": "한인",
+            "information": [
+                [
+                    9.0,
+                    10.5,
+                    [
+                        -3,
+                        1
+                    ]
+                ],
+                [
+                    74.0,
+                    75.5,
+                    [
+                        -3,
+                        1
+                    ]
+                ]
+            ],
+            "total_value": 3.933333333333333,
+            "group": 2
+        },
+        {
+            "course_number": "ASW2009-05",
+            "course_name": "객체지향프로그래밍",
+            "professor_name": "신인수",
+            "information": [
+                [
+                    102.0,
+                    105.5,
+                    [
+                        -3,
+                        1
+                    ]
+                ]
+            ],
+            "total_value": 2.98,
+            "group": 2
+        }
+    ],
+    [
+        {
+            "course_number": "PRI4012-01",
+            "course_name": "미적분학및연습2",
+            "professor_name": "엄건애",
+            "information": [
+                [
+                    4.0,
+                    5.0,
+                    [
+                        -3,
+                        4
+                    ]
+                ],
+                [
+                    51.0,
+                    52.0,
+                    [
+                        -3,
+                        4
+                    ]
+                ]
+            ],
+            "total_value": 4.029999999999999,
+            "group": 3
+        },
+        {
+            "course_number": "PRI4012-02",
+            "course_name": "미적분학및연습2",
+            "professor_name": "최광호",
+            "information": [
+                [
+                    4.0,
+                    5.0,
+                    [
+                        -3,
+                        4
+                    ]
+                ],
+                [
+                    51.0,
+                    52.0,
+                    [
+                        -3,
+                        4
+                    ]
+                ]
+            ],
+            "total_value": 3.49,
+            "group": 3
+        },
+        {
+            "course_number": "PRI4012-03",
+            "course_name": "미적분학및연습2",
+            "professor_name": "임영빈",
+            "information": [
+                [
+                    4.0,
+                    5.0,
+                    [
+                        -3,
+                        4
+                    ]
+                ],
+                [
+                    51.0,
+                    52.0,
+                    [
+                        -3,
+                        4
+                    ]
+                ]
+            ],
+            "total_value": 3.663333333333333,
+            "group": 3
+        },
+        {
+            "course_number": "PRI4012-04",
+            "course_name": "미적분학및연습2",
+            "professor_name": "심호진",
+            "information": [
+                [
+                    8.5,
+                    9.5,
+                    [
+                        2,
+                        2
+                    ]
+                ],
+                [
+                    54.0,
+                    55.0,
+                    [
+                        2,
+                        2
+                    ]
+                ]
+            ],
+            "total_value": 3.5666666666666664,
+            "group": 3
+        },
+        {
+            "course_number": "PRI4012-05",
+            "course_name": "미적분학및연습2",
+            "professor_name": "김동호",
+            "information": [
+                [
+                    30.0,
+                    31.0,
+                    [
+                        2,
+                        2
+                    ]
+                ],
+                [
+                    78.0,
+                    79.0,
+                    [
+                        2,
+                        2
+                    ]
+                ]
+            ],
+            "total_value": 4.073333333333332,
+            "group": 3
+        },
+        {
+            "course_number": "PRI4012-06",
+            "course_name": "미적분학및연습2",
+            "professor_name": "엄건애",
+            "information": [
+                [
+                    52.5,
+                    53.5,
+                    [
+                        -3,
+                        4
+                    ]
+                ],
+                [
+                    100.0,
+                    101.0,
+                    [
+                        -3,
+                        4
+                    ]
+                ]
+            ],
+            "total_value": 4.029999999999999,
+            "group": 3
+        },
+        {
+            "course_number": "PRI4012-07",
+            "course_name": "미적분학및연습2",
+            "professor_name": "임영빈",
+            "information": [
+                [
+                    28.0,
+                    29.0,
+                    [
+                        -3,
+                        4
+                    ]
+                ],
+                [
+                    76.0,
+                    77.0,
+                    [
+                        -3,
+                        4
+                    ]
+                ]
+            ],
+            "total_value": 3.663333333333333,
+            "group": 3
+        },
+        {
+            "course_number": "PRI4012-08",
+            "course_name": "미적분학및연습2",
+            "professor_name": "박장희",
+            "information": [
+                [
+                    28.0,
+                    29.0,
+                    [
+                        4,
+                        3
+                    ]
+                ],
+                [
+                    76.0,
+                    77.0,
+                    [
+                        4,
+                        3
+                    ]
+                ]
+            ],
+            "total_value": 3.8199999999999994,
+            "group": 3
+        },
+        {
+            "course_number": "PRI4012-09",
+            "course_name": "미적분학및연습2",
+            "professor_name": "박정준",
+            "information": [
+                [
+                    28.0,
+                    29.0,
+                    [
+                        3,
+                        2
+                    ]
+                ],
+                [
+                    76.0,
+                    77.0,
+                    [
+                        3,
+                        2
+                    ]
+                ]
+            ],
+            "total_value": 3.563333333333333,
+            "group": 3
+        },
+        {
+            "course_number": "PRI4012-10",
+            "course_name": "미적분학및연습2",
+            "professor_name": "박상웅",
+            "information": [
+                [
+                    58.0,
+                    60.5,
+                    [
+                        0,
+                        1
+                    ]
+                ]
+            ],
+            "total_value": 3.8,
+            "group": 3
+        },
+        {
+            "course_number": "PRI4012-11",
+            "course_name": "미적분학및연습2",
+            "professor_name": "임영빈",
+            "information": [
+                [
+                    30.0,
+                    31.0,
+                    [
+                        -3,
+                        4
+                    ]
+                ],
+                [
+                    79.0,
+                    80.0,
+                    [
+                        -3,
+                        4
+                    ]
+                ]
+            ],
+            "total_value": 3.663333333333333,
+            "group": 3
+        },
+        {
+            "course_number": "PRI4012-12",
+            "course_name": "미적분학및연습2",
+            "professor_name": "권기운",
+            "information": [
+                [
+                    30.0,
+                    31.0,
+                    [
+                        4,
+                        3
+                    ]
+                ],
+                [
+                    78.0,
+                    79.0,
+                    [
+                        4,
+                        3
+                    ]
+                ]
+            ],
+            "total_value": 2.98,
+            "group": 3
+        },
+        {
+            "course_number": "PRI4012-13",
+            "course_name": "미적분학및연습2",
+            "professor_name": "박호",
+            "information": [
+                [
+                    30.0,
+                    31.0,
+                    [
+                        3,
+                        2
+                    ]
+                ],
+                [
+                    78.0,
+                    79.0,
+                    [
+                        3,
+                        2
+                    ]
+                ]
+            ],
+            "total_value": 3.6533333333333333,
+            "group": 3
+        },
+        {
+            "course_number": "PRI4012-14",
+            "course_name": "미적분학및연습2",
+            "professor_name": "박정준",
+            "information": [
+                [
+                    32.0,
+                    33.0,
+                    [
+                        4,
+                        3
+                    ]
+                ],
+                [
+                    80.5,
+                    81.5,
+                    [
+                        4,
+                        3
+                    ]
+                ]
+            ],
+            "total_value": 3.563333333333333,
+            "group": 3
+        }
+    ],
+    [
+        {
+            "course_number": "PRI4023-01",
+            "course_name": "확률및통계학",
+            "professor_name": "김희경",
+            "information": [
+                [
+                    4.0,
+                    5.0,
+                    [
+                        -2,
+                        5
+                    ]
+                ],
+                [
+                    51.0,
+                    52.0,
+                    [
+                        -2,
+                        5
+                    ]
+                ]
+            ],
+            "total_value": 3.9333333333333327,
+            "group": 4
+        },
+        {
+            "course_number": "PRI4023-02",
+            "course_name": "확률및통계학",
+            "professor_name": "정선",
+            "information": [
+                [
+                    28.0,
+                    29.0,
+                    [
+                        2,
+                        2
+                    ]
+                ],
+                [
+                    76.0,
+                    77.0,
+                    [
+                        2,
+                        2
+                    ]
+                ]
+            ],
+            "total_value": 3.8,
+            "group": 4
+        },
+        {
+            "course_number": "PRI4023-03",
+            "course_name": "확률및통계학",
+            "professor_name": "곽화륜",
+            "information": [
+                [
+                    10.0,
+                    12.5,
+                    [
+                        0,
+                        1
+                    ]
+                ]
+            ],
+            "total_value": 4.286666666666666,
+            "group": 4
+        },
+        {
+            "course_number": "PRI4025-01",
+            "course_name": "공학수학1",
+            "professor_name": "조영덕",
+            "information": [
+                [
+                    4.0,
+                    5.0,
+                    [
+                        -3,
+                        4
+                    ]
+                ],
+                [
+                    51.0,
+                    52.0,
+                    [
+                        -3,
+                        4
+                    ]
+                ]
+            ],
+            "total_value": 3.5399999999999996,
+            "group": 4
+        },
+        {
+            "course_number": "PRI4025-02",
+            "course_name": "공학수학1",
+            "professor_name": "최광호",
+            "information": [
+                [
+                    8.0,
+                    9.5,
+                    [
+                        -3,
+                        4
+                    ]
+                ],
+                [
+                    54.0,
+                    55.0,
+                    [
+                        -3,
+                        4
+                    ]
+                ]
+            ],
+            "total_value": 3.5533333333333332,
+            "group": 4
+        },
+        {
+            "course_number": "PRI4025-03",
+            "course_name": "공학수학1",
+            "professor_name": "김동호",
+            "information": [
+                [
+                    32.0,
+                    33.0,
+                    [
+                        -3,
+                        4
+                    ]
+                ],
+                [
+                    80.5,
+                    81.5,
+                    [
+                        -3,
+                        4
+                    ]
+                ]
+            ],
+            "total_value": 2.98,
+            "group": 4
+        },
+        {
+            "course_number": "PRI4025-04",
+            "course_name": "공학수학1",
+            "professor_name": "조범규",
+            "information": [
+                [
+                    56.0,
+                    57.0,
+                    [
+                        -3,
+                        4
+                    ]
+                ],
+                [
+                    104.0,
+                    105.0,
+                    [
+                        -3,
+                        4
+                    ]
+                ]
+            ],
+            "total_value": 3.3666666666666663,
+            "group": 4
+        }
+    ],
+    [
+        {
+            "course_number": "RGC1080-01",
+            "course_name": "EAS1",
+            "professor_name": "브라이언킨",
+            "information": [
+                [
+                    4.0,
+                    5.5,
+                    [
+                        2,
+                        2
+                    ]
+                ]
+            ],
+            "total_value": 2.7766666666666664,
+            "group": 5
+        },
+        {
+            "course_number": "RGC1080-02",
+            "course_name": "EAS1",
+            "professor_name": "제프벨리",
+            "information": [
+                [
+                    76.0,
+                    77.5,
+                    [
+                        2,
+                        2
+                    ]
+                ]
+            ],
+            "total_value": 2.8099999999999996,
+            "group": 5
+        },
+        {
+            "course_number": "RGC1080-03",
+            "course_name": "EAS1",
+            "professor_name": "브라이언킨",
+            "information": [
+                [
+                    2.0,
+                    3.5,
+                    [
+                        2,
+                        2
+                    ]
+                ]
+            ],
+            "total_value": 2.7766666666666664,
+            "group": 5
+        },
+        {
+            "course_number": "RGC1080-05",
+            "course_name": "EAS1",
+            "professor_name": "폴로저스",
+            "information": [
+                [
+                    74.0,
+                    75.5,
+                    [
+                        4,
+                        3
+                    ]
+                ]
+            ],
+            "total_value": 3.3966666666666665,
+            "group": 5
+        },
+        {
+            "course_number": "RGC1080-06",
+            "course_name": "EAS1",
+            "professor_name": "데이린프롤리",
+            "information": [
+                [
+                    103.0,
+                    104.5,
+                    [
+                        1,
+                        1
+                    ]
+                ]
+            ],
+            "total_value": 3.13,
+            "group": 5
+        },
+        {
+            "course_number": "RGC1080-07",
+            "course_name": "EAS1",
+            "professor_name": "제프벨리",
+            "information": [
+                [
+                    31.5,
+                    33.0,
+                    [
+                        2,
+                        2
+                    ]
+                ]
+            ],
+            "total_value": 2.8099999999999996,
+            "group": 5
+        },
+        {
+            "course_number": "RGC1080-08",
+            "course_name": "EAS1",
+            "professor_name": "캐서린무어",
+            "information": [
+                [
+                    56.0,
+                    57.5,
+                    [
+                        1,
+                        1
+                    ]
+                ]
+            ],
+            "total_value": 3.6299999999999994,
+            "group": 5
+        },
+        {
+            "course_number": "RGC1080-09",
+            "course_name": "EAS1",
+            "professor_name": "소컴켕",
+            "information": [
+                [
+                    6.5,
+                    8.0,
+                    [
+                        3,
+                        2
+                    ]
+                ]
+            ],
+            "total_value": 2.4866666666666664,
+            "group": 5
+        },
+        {
+            "course_number": "RGC1080-10",
+            "course_name": "EAS1",
+            "professor_name": "브라이언오라스",
+            "information": [
+                [
+                    27.0,
+                    28.5,
+                    [
+                        2,
+                        2
+                    ]
+                ]
+            ],
+            "total_value": 3.6466666666666665,
+            "group": 5
+        },
+        {
+            "course_number": "RGC1080-11",
+            "course_name": "EAS1",
+            "professor_name": "소컴켕",
+            "information": [
+                [
+                    34.0,
+                    35.5,
+                    [
+                        2,
+                        2
+                    ]
+                ]
+            ],
+            "total_value": 2.4866666666666664,
+            "group": 5
+        }
+    ],
+    [
+        {
+            "course_number": "ASW4016-01",
+            "course_name": "컴퓨터보안",
+            "professor_name": "정준호",
+            "information": [
+                [
+                    5.0,
+                    6.5,
+                    [
+                        -3,
+                        1
+                    ]
+                ],
+                [
+                    53.0,
+                    54.5,
+                    [
+                        -3,
+                        1
+                    ]
+                ]
+            ],
+            "total_value": 3.6666666666666665,
+            "group": 6
+        },
+        {
+            "course_number": "ASW4016-02",
+            "course_name": "컴퓨터보안",
+            "professor_name": "김영부",
+            "information": [
+                [
+                    50.0,
+                    51.5,
+                    [
+                        -3,
+                        1
+                    ]
+                ],
+                [
+                    101.5,
+                    103.0,
+                    [
+                        -3,
+                        1
+                    ]
+                ]
+            ],
+            "total_value": 4.333333333333333,
+            "group": 6
+        }
+    ]
+]
